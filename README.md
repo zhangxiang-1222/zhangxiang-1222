@@ -15,9 +15,8 @@
 ✔️ 8+ Years of iOS developer Experience
 
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/zhangxiang-1222)
+<!-- ## GitHub Activity -->
+<!-- ![GitHub Contribution Graph](https://ghchart.rshah.org/zhangxiang-1222) -->
 
 ## Connect
 
