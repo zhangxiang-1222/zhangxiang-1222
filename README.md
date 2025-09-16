@@ -20,7 +20,10 @@
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zhangxiang-1222)
+[![Chrome](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://www.zhangxiang.space/)  [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zhangxiang-1222)
+
+
+
 
 ---
 
